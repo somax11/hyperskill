@@ -1,9 +1,6 @@
-import sys
-import os
+import sys, os, requests, re
 from collections import deque
-import requests
 from bs4 import BeautifulSoup
-import re
 from colorama import Fore
 
 
