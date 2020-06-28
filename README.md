@@ -1,2 +1,2 @@
 # hyperskill
-Jetbrains academy solutions
+Jetbrains academy my implemetation
