@@ -1,2 +1,2 @@
 # hyperskill
-Jetbrains academy my implemetation
+Text based internet browser, my implementation. 
