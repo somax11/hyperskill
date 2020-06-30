@@ -1,2 +1,2 @@
 # hyperskill
-Text based internet browser, my implementation. 
+Text based internet browser
