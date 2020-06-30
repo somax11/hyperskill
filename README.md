@@ -1,2 +1,2 @@
 # hyperskill
-Text based internet browser
+Text based internet browser solution.
